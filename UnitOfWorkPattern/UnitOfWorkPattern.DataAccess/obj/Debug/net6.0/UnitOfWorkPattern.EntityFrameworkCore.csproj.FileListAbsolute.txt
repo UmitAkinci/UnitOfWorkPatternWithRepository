@@ -1,0 +1,17 @@
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\bin\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.deps.json
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\bin\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.runtimeconfig.json
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\bin\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\bin\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.pdb
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\bin\Debug\net6.0\UnitOfWorkPattern.Domain.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\bin\Debug\net6.0\UnitOfWorkPattern.Domain.pdb
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.csproj.AssemblyReference.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.AssemblyInfoInputs.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.AssemblyInfo.cs
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.csproj.CoreCompileInputs.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.csproj.CopyComplete
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\refint\UnitOfWorkPattern.EntityFrameworkCore.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.pdb
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\UnitOfWorkPattern.EntityFrameworkCore.genruntimeconfig.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.DataAccess\obj\Debug\net6.0\ref\UnitOfWorkPattern.EntityFrameworkCore.dll

@@ -1,0 +1,15 @@
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\bin\Debug\net6.0\UnitOfWorkPattern.Services.deps.json
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\bin\Debug\net6.0\UnitOfWorkPattern.Services.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\bin\Debug\net6.0\UnitOfWorkPattern.Services.pdb
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\bin\Debug\net6.0\UnitOfWorkPattern.Domain.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\bin\Debug\net6.0\UnitOfWorkPattern.Domain.pdb
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\UnitOfWorkPattern.Services.csproj.AssemblyReference.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\UnitOfWorkPattern.Services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\UnitOfWorkPattern.Services.AssemblyInfoInputs.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\UnitOfWorkPattern.Services.AssemblyInfo.cs
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\UnitOfWorkPattern.Services.csproj.CoreCompileInputs.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\UnitOfWorkPattern.Services.csproj.CopyComplete
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\UnitOfWorkPattern.Services.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\refint\UnitOfWorkPattern.Services.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\UnitOfWorkPattern.Services.pdb
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPattern.Services\obj\Debug\net6.0\ref\UnitOfWorkPattern.Services.dll

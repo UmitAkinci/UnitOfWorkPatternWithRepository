@@ -1,0 +1,12 @@
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\bin\Debug\net6.0\UnitOfWorkPattern.Domain.deps.json
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\bin\Debug\net6.0\UnitOfWorkPattern.Domain.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\bin\Debug\net6.0\UnitOfWorkPattern.Domain.pdb
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\obj\Debug\net6.0\UnitOfWorkPattern.Domain.csproj.AssemblyReference.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\obj\Debug\net6.0\UnitOfWorkPattern.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\obj\Debug\net6.0\UnitOfWorkPattern.Domain.AssemblyInfoInputs.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\obj\Debug\net6.0\UnitOfWorkPattern.Domain.AssemblyInfo.cs
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\obj\Debug\net6.0\UnitOfWorkPattern.Domain.csproj.CoreCompileInputs.cache
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\obj\Debug\net6.0\UnitOfWorkPattern.Domain.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\obj\Debug\net6.0\refint\UnitOfWorkPattern.Domain.dll
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\obj\Debug\net6.0\UnitOfWorkPattern.Domain.pdb
+C:\Users\umit.akinci\source\repos\UnitOfWorkPattern\UnitOfWorkPatternApp.Uow\obj\Debug\net6.0\ref\UnitOfWorkPattern.Domain.dll

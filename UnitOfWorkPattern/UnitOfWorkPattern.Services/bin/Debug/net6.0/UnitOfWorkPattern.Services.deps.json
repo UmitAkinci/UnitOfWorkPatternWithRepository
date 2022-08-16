@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "UnitOfWorkPattern.Services/1.0.0": {
+        "dependencies": {
+          "UnitOfWorkPattern.Domain": "1.0.0"
+        },
+        "runtime": {
+          "UnitOfWorkPattern.Services.dll": {}
+        }
+      },
+      "UnitOfWorkPattern.Domain/1.0.0": {
+        "runtime": {
+          "UnitOfWorkPattern.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UnitOfWorkPattern.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UnitOfWorkPattern.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
